@@ -20,8 +20,8 @@ Or install it yourself as:
 
 You need to initialize the Dice::Client object whith the job and location to search:
 
-  client = Dice::Client.new job: 'java', location: 'New+York,+NY'
-  puts client.jobsearch['resultItemList']
+    client = Dice::Client.new job: 'java', location: 'New+York,+NY'
+    puts client.jobsearch['resultItemList']
 
 
 1. Fork it ( http://github.com/rapofran/dice/fork )
