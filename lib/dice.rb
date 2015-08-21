@@ -1,5 +1,5 @@
-require 'simplyhired/version'
-require 'simplyhired/client'
+require 'dice/version'
+require 'dice/client'
 
 module Dice
 end

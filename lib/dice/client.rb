@@ -1,3 +1,5 @@
+require 'httparty'
+
 module Dice
   class Client
     include HTTParty
